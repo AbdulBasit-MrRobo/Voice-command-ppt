@@ -7,9 +7,9 @@ Step 1 - Open the python file in Visual Studio <br />
 Step 2 - Run the puthon file <br />
 Step 3 - Open your PPT <br />
 Commands -<br />
-     1) Start - start the PPT presentation <br />
-     2) Next Slide/Next - next slide of PPT <br />
-     3) Previous Slide/Previous - previous slide of PPT <br />
+     1) Start - Start the PPT presentation <br />
+     2) Next Slide/Next - Next slide of PPT <br />
+     3) Previous Slide/Previous - Previous slide of PPT <br />
      4) Stop - Stop PPT presentation <br />
      5) Close - Close PPT presentation <br />
      6) Quit - Quit the program <br />
