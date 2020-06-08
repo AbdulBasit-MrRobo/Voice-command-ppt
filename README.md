@@ -4,7 +4,7 @@ Modules Required - <br />
      1) Pyttsx3 - pip install pyttsx3 <br />
      2) Speech Recognition - pip install SpeechRecognition<br />
 Step 1 - Open the python file in Visual Studio <br />
-Step 2 - Run the puthon file <br />
+Step 2 - Run the python file <br />
 Step 3 - Open your PPT <br />
 Step 4 - Say "Control PPT" <br />
 Commands -<br />
