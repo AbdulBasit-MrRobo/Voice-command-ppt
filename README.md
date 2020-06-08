@@ -6,6 +6,7 @@ Modules Required - <br />
 Step 1 - Open the python file in Visual Studio <br />
 Step 2 - Run the puthon file <br />
 Step 3 - Open your PPT <br />
+Step 4 - Say "Control PPT" <br />
 Commands -<br />
      1) Start - Start the PPT presentation <br />
      2) Next Slide/Next - Next slide of PPT <br />
